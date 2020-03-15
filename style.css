@@ -23,3 +23,15 @@ button {
     width: 600px;
     align: center;  
     }
+
+.current-time {
+    background-color: coral;
+}
+
+.past-time {
+    background-color: cadetblue;
+}
+
+.future-time {
+    background-color: darkgray;
+}
